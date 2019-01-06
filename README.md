@@ -1,4 +1,11 @@
 # Mallamfront
+#to do 
+User's interfaces 
+1.authetification 
+2.Registration 
+3.Home
+#Done
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
